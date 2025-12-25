@@ -14,3 +14,12 @@ Fundamentally, magic is finding the form for your intention. From this one law, 
 	- The use of scripts on human body is banned by the Aperium.
 - **Formation:** considered an advanced form of Elemental where the user could extract elements from an object and use these element to form something else. So far, not many people know about this practice. The most prominent user of Formation is Rostafr Nibelund.
 	- **Alchemy** is believed to be the early form of Formation. Alchemy was greatly disregarded as a real magic practice as its outcomes were inferior to other forms of magic.
+
+# Magic education
+Generally, magic education is offered in limit in most countries. While most magic education institutions are considered higher education, some middle schools or high schools offer magic education to their best students. Families with magic traditions tend to teach their children magic from a young age, but this kind of education is unattainable to most families outside of the magic world.
+
+Magic education is divided into two streams:
+- Academic magic: students from this stream usually work in institutions to research new ways of applying magic. They sometimes get made fun of for being impractical and useless in urgent matters.
+- Applied magic: the more common stream, as students from this stream have a more diverse range of employment. They however don't have magic theory foundation as strong.
+
+It has been a trend for nations to invest in magic education, however, this has also been heavily regulated by the Commission as they demand countries to limit the annual magic graduates to ensure all safety measures are followed properly.
