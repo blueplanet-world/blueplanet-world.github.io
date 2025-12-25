@@ -1,8 +1,13 @@
 **Location:** East of the continent
+
 **Culture group:** Eastern culture
+
 **Inspiration:** Northern Vietnamese/Greek/Venetian
+
 **Demonym:** Viennese
+
 **Official religion:** Atheism
+
 ## Geography
 **Climate:** warm summer, mild winter, humid
 **Geographical location:** a small water city located by a bay. Half of it is sunken in water and the people build their houses on the water surface using ancient techniques.
