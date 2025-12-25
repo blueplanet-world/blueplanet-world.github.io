@@ -15,8 +15,8 @@
 	**Natural resources:** metals, minerals, wood
 	**Possible flora:** Pines, maples, firs, lots of ferns and moss
 ## Politics
-**Capital:** Hjartgar (Heart of the Garden, used to be Hjartgadr)
-**Ruler:** the Governing Council of Wrisckaria
+- **Capital:** Hjartgar (Heart of the Garden, used to be Hjartgadr)
+- **Ruler:** the Governing Council of Wrisckaria
 ## Society and culture
 ### Minorities
 Apart from the Wriscks, Otterfolks are also native to this land. Modern Wrisckaria and Wrisck people have done a lot of work on their racism towards Otterfolks, but in the past Otterfolks used to be isolated in their own neighborhoods. There is still a lot of activism going on.
