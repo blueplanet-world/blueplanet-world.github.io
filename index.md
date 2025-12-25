@@ -6,8 +6,8 @@ The story follows Rostafr Nibelund, an officer from the Magic Safety Commission,
 
 ## World Rules
 * [The Magic System](magicsystem.md)
-* Aperium Magic Safety Commission 
+* [Aperium Magic Safety Commission](aperium.md)
 
 ## Countries
-* Viên
-* Wrisckaria
+* [Viên](vien.md)
+* [Wrisckaria](wriskcaria.md)
