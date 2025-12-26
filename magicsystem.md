@@ -16,7 +16,7 @@ Fundamentally, magic is finding the form for your intention. From this one law, 
 	- The use of scripts on human body is banned by the Aperium.
 - **Formation:** considered an advanced form of Elemental where the user could extract elements from an object and use these element to form something else. So far, not many people know about this practice. The most prominent user of Formation is Rostafr Nibelund.
 	- **Alchemy** is believed to be the early form of Formation. Alchemy was greatly disregarded as a real magic practice as its outcomes were inferior to other forms of magic.
- - Artifacts: a more common and less official use of magic, as commonfolks are able to access artifacts easily. Artifacts are used in everyday life, they're sold everywhere. Artifacts often have to go through a very strict registeration procedure before they're allowed to be on the market.
+ - **Artifacts:** a more common and less official use of magic, as commonfolks are able to access artifacts easily. Artifacts are used in everyday life, they're sold everywhere. Artifacts often have to go through a very strict registeration procedure before they're allowed to be on the market.
 
 ## Magic education
 Generally, magic education is offered in limit in most countries. While most magic education institutions are considered higher education, some middle schools or high schools offer magic education to their best students. Families with magic traditions tend to teach their children magic from a young age, but this kind of education is unattainable to most families outside of the magic world.
