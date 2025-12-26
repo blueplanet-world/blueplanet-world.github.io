@@ -26,3 +26,10 @@ Magic education is divided into two streams:
 - **Applied magic**: the more common stream, as students from this stream have a more diverse range of employment. They however don't have magic theory foundation as strong.
 
 It has been a trend for nations to invest in magic education, however, this has also been heavily regulated by the Commission as they demand countries to limit the annual magic graduates to ensure all safety measures are followed properly.
+
+## International Magic Safety Laws
+1. Magic is to serve the interest of people. Magic must not be used for a government's own profits.
+2. One can only cast as much magic as their license allow them to.
+3. The number of magicians graduating each year must not exceed a dozen per city.
+4. No high-grade magical artifact should be missing for more than a week.
+5. No one is allowed to harm a magical familiar, even its owner.
